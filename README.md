@@ -39,6 +39,15 @@ A partir de agora é possível visualizar a interface do Pgadmin4 e precisamos v
 
 ![image](https://github.com/user-attachments/assets/56fef358-9eed-444c-b650-2937c65ea7af)
 
+Digite o nome do servidor e na conexão vincule com a porta correta e o nome do container criado para o postgres,não esqueca de colocar a senha:
+
+![image](https://github.com/user-attachments/assets/96ccaffc-86a4-460e-9e4c-a2ef1d9415d2)
+
+Agora é possível utilizar o postgres via pgaadmin para criarmos nosso banco de dados e realizarmos os scripts SQL:
+
+![image](https://github.com/user-attachments/assets/4645ce08-78b6-4db9-8add-3bae12f18f7a)
+
+
 
 
 
