@@ -23,7 +23,7 @@ Para finalizar vamos fazer uma mesmo processo para utilização do Pgadmin4:
 $ docker run --name sql-completo-pgadmin \
   --network sql-completo-network \
   -p 15437:80 \
-  -e PGADMIN_DEFAULT_EMAIL=walterbiel1237@hotmail.com \
+  -e PGADMIN_DEFAULT_EMAIL= (seu email) \
   -e PGADMIN_DEFAULT_PASSWORD=postgres \
   -d dpage/pgadmin4
 
