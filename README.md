@@ -48,8 +48,10 @@ Agora é possível utilizar o postgres via pgaadmin para criarmos nosso banco de
 ![image](https://github.com/user-attachments/assets/2cf4daf6-67fc-4da9-9402-5df2cc0d9d13)
 
 
+Para iniciar a utilização vamos rodar um script pronto para criação de um banco de dados teste que será fonte das nossas análises:
+Rode o script: northwind.sql
 
-
+![image](https://github.com/user-attachments/assets/4392257e-8b4d-4a8c-b5e9-e2100c1d8c51)
 
 
 
