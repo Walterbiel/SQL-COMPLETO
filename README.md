@@ -35,6 +35,11 @@ $ docker run --name sql-completo-pgadmin \
 http://localhost:15437/ e digite seu e-mail e senha configurados:
 ![image](https://github.com/user-attachments/assets/0f47f32d-5d7c-4fe3-af77-43a7f29340da)
 
+A partir de agora é possível visualizar a interface do Pgadmin4 e precisamos vincular ao servidor do postgresSQL:
+
+![image](https://github.com/user-attachments/assets/56fef358-9eed-444c-b650-2937c65ea7af)
+
+
 
 
 
