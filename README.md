@@ -31,5 +31,11 @@ $ docker run --name sql-completo-pgadmin \
   
 ![image](https://github.com/user-attachments/assets/73459b40-f611-4970-b6d6-29d8d586fff8)
 
+### Em seguida abra seu navegador para utilização do pgadmin na porta selecionada:
+http://localhost:15437/ e digite seu e-mail e senha configurados:
+![image](https://github.com/user-attachments/assets/0f47f32d-5d7c-4fe3-af77-43a7f29340da)
+
+
+
 
 
