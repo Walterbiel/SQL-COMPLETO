@@ -45,7 +45,8 @@ Digite o nome do servidor e na conexão vincule com a porta correta e o nome do 
 
 Agora é possível utilizar o postgres via pgaadmin para criarmos nosso banco de dados e realizarmos os scripts SQL:
 
-![image](https://github.com/user-attachments/assets/4645ce08-78b6-4db9-8add-3bae12f18f7![image](https://github.com/user-attachments/assets/0c25e7a6-66df-4802-9039-72243dd4031e)
+![image](https://github.com/user-attachments/assets/2cf4daf6-67fc-4da9-9402-5df2cc0d9d13)
+
 
 
 
