@@ -53,6 +53,10 @@ Rode o script: northwind.sql
 
 ![image](https://github.com/user-attachments/assets/4392257e-8b4d-4a8c-b5e9-e2100c1d8c51)
 
+### utilize o pgadmin4 para rodar os scripts e gerar gráficos, os scripts estão disponibilizados no repositório:
+
+![image](https://github.com/user-attachments/assets/4ef56be1-0184-458e-ade0-35b292dcbc01)
+
 
 
 
