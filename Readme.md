@@ -114,6 +114,7 @@ SELECT *
 FROM tabela1
 NATURAL JOIN tabela2;
 
-
+![image](https://github.com/user-attachments/assets/c37f4ebc-8aaa-4dcc-9e7c-94bdf1a93e5d)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnsql.com.br%2Fblog%2Fcomo-aprender-sql-joins%2F&psig=AOvVaw0NaWxpHsetXeeGmzBUaegR&ust=1736896016443000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPC57MbA84oDFQAAAAAdAAAAABAE
 
 
