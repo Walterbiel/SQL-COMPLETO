@@ -12,7 +12,7 @@ $ docker network create sql-completo-network
 
 $ docker run --name sql-completo-postgres \
   --network sql-completo-network \
-  -p 5437:5437 \
+  -p 5432:5432 \
   -e POSTGRES_PASSWORD=postgres \
   -d postgres
 
