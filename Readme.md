@@ -12,9 +12,10 @@ $ docker network create sql-completo-network
 
 $ docker run --name sql-completo-postgres \
   --network sql-completo-network \
-  -p 5432:5432 \
+  -p 5437:5432 \
   -e POSTGRES_PASSWORD=postgres \
   -d postgres
+
 
 ![image](https://github.com/user-attachments/assets/c86c5d05-2d8f-4dfe-a276-4aaa51d274cc)
 
@@ -23,7 +24,7 @@ Para finalizar vamos fazer uma mesmo processo para utilização do Pgadmin4:
 $ docker run --name sql-completo-pgadmin \
   --network sql-completo-network \
   -p 15437:80 \
-  -e PGADMIN_DEFAULT_EMAIL= (seu email) \
+  -e PGADMIN_DEFAULT_EMAIL=seu_email@exemplo.com \
   -e PGADMIN_DEFAULT_PASSWORD=postgres \
   -d dpage/pgadmin4
 
