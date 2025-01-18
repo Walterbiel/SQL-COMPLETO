@@ -2,6 +2,8 @@
 
 ### Como cada aplicação será uma imagem configurada em um container, é necessário criar uma rede que funcionará como ponte para ambos containeres se comunicarem. Dessa forma utilizaremos o Pgadmin4 como interface para utilização do banco de dados PostgresSql
 
+Siga o passo a passo direto abaixo, ou suba o arquivo docker-compose.yaml com o comando:$ docker compose up -d
+
 ### Digite no CMD o seguinte comando para criação da rede:
 
 $ docker network create sql-completo-network
