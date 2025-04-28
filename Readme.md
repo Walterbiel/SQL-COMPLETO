@@ -117,6 +117,7 @@ SELECT *
 FROM tabela1
 NATURAL JOIN tabela2;
 
+<iframe title="Market Basket Analysis" width="600" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiN2YwMTcyZDQtMTIyZC00NWQ4LWE3ZGMtNzZkMzQzNTU3NzI3IiwidCI6IjUxZWM4MDM1LWViOTYtNDg0Yy05YjU4LTFkNGEwMDJkM2I0NSJ9&pageName=27daebb71275dbea40a1" frameborder="0" allowFullScreen="true"></iframe>
 ![image](https://github.com/user-attachments/assets/c37f4ebc-8aaa-4dcc-9e7c-94bdf1a93e5d)
 https://www.google.com/url?sa=i&url=https%3A%2F%2Flearnsql.com.br%2Fblog%2Fcomo-aprender-sql-joins%2F&psig=AOvVaw0NaWxpHsetXeeGmzBUaegR&ust=1736896016443000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCPC57MbA84oDFQAAAAAdAAAAABAE
 
