@@ -1,0 +1,29 @@
+WITH consulta AS (
+    SELECT
+        v.id_loja,
+        v.data_venda,
+        ROUND(SUM(v.preco * v.quantidade)) AS faturamento
+    FROM'
+        vendas v
+    GROUP BY
+        v.id_loja, v.data_venda
+),
+		consulta2 AS (
+		    SELECT
+		        id_loja,
+		        data_venda,
+		        faturamento,
+		        AVG(faturamento) OVER (
+		            PARTITION BY id_loja
+		            ORDER BY data_venda
+		            ROWS BETWEEN 29 PRECEDING AND CURRENT ROW
+		        ) AS media_movel_30_dias
+		    FROM consulta
+		)
+
+SELECT 
+id_loja,
+data_venda,
+faturamento,
+round(media_movel_30_dias) as media_movel_30_dias
+FROM consulta2;
